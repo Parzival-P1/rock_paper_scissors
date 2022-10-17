@@ -3,7 +3,7 @@
 # Here you can play 🕹
 
  - Please inspect the code and play on the console
- 	- 
+ 	- https://parzival-p1.github.io/rock_paper_scissors/ 
 
 # Recommended links 🔗
 
